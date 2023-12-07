@@ -8,6 +8,9 @@ Implementação de uma função que recebe um número inteiro positivo e retorna
 2. Abra um terminal na pasta do projeto.
 3. Execute o comando a seguir para executar o programa:
 ''' cmd, prompt, etc
+
 node .
+
+Siga as instruções do console
 
 ## Author : Leonardo - Leo-LabIoT 
