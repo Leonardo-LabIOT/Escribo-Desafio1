@@ -10,4 +10,4 @@ Implementação de uma função que recebe um número inteiro positivo e retorna
 ''' cmd, prompt, etc
 node .
 
-## Author : Leonardo - LEO-LabIoT 
+## Author : Leonardo - Leo-LabIoT 
